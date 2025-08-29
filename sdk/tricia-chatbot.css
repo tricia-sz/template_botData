@@ -286,7 +286,7 @@
     background: var(--headerColor);
     border-bottom-left-radius: 18px;
     border-bottom-right-radius: 18px;
-    border-top: 1px solid #1e202c70;
+    border-top: 1px solid #0F172A;
 }
 
 .trx-btn-main {
@@ -317,10 +317,12 @@
     border: none;
     padding: 10px 12px;
     font-size: 1em;
-    background: var(--backgroundColor);
+    background: #0f172abb;
     color: #ffffff;
-    outline: none;
+    outline: 1px solid #0454a4;
     transition: border .16s;
+    
+    
 }
 
 #trx-input:focus {
@@ -350,7 +352,7 @@
 }
 
 .trx-chat-footer button[type="submit"]:hover {
-    background: #4682B4;
+    background: #0d2aaf;
 }
 
 #trx-stop {
@@ -483,7 +485,7 @@
 .trx-chat-body,
 #trx-messages {
     scrollbar-width: thin;
-    scrollbar-color: var(--primaryColor, #4682B4) var(--backgroundColor, #181C24);
+    scrollbar-color: var(--primaryColor, #4682B4) var(--backgroundColor, #181C24); 
 }
 
 /* Para navegadores baseados em Webkit (Chrome, Edge, Safari) */
