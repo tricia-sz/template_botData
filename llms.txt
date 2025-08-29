@@ -1,0 +1,63 @@
+# Tríc IA Full Stack Developer
+
+> Portifolio de projetos de desenvolvimento
+
+## HOME
+[HOME](https://tricia-sz.netlify.app/)
+
+## EXPERIENCE
+[EXPERIENCE](https://tricia-sz.netlify.app/experiencia/1)
+
+## SKILLS
+[SKILLS](https://tricia-sz.netlify.app/skill/1)
+
+## PROJECTS
+[PROJECTS](https://tricia-sz.netlify.app/projeto/1)
+
+## TS
+[TS](https://api.whatsapp.com/send?phone=5511985952379)
+
+## Interstar Telecom Sicoob & Sicred Desenvolvedor Full Stack Jr Análise e desenvolvimento de sites e sistemas. Produção de testes de software. Atividades contemplam todo ciclo de desenvolvimento de software: análise, planejamento, testes e execução.01/2022 a 01/2023
+[Interstar Telecom Sicoob & Sicred Desenvolvedor Full Stack Jr Análise e desenvolvimento de sites e sistemas. Produção de testes de software. Atividades contemplam todo ciclo de desenvolvimento de software: análise, planejamento, testes e execução.01/2022 a 01/2023](https://tricia-sz.netlify.app/experiencia/2)
+
+## Real Seguro Viagem Intern Developer Desenvolvimento de software: análise, planejamento, testes e execução com Ruby On Rails, Svelte e Postgres.10/2021 a 12/2021
+[Real Seguro Viagem Intern Developer Desenvolvimento de software: análise, planejamento, testes e execução com Ruby On Rails, Svelte e Postgres.10/2021 a 12/2021](https://tricia-sz.netlify.app/experiencia/3)
+
+## Quanta DGT Analista Noc Monitoramento proativo de dispositivos de cinemas Digitais, Servidores,Switches, Projetores. Administração e configuração de switches (Dell, Cisco). Controle e manutenção RAID, auditoria log, transmissão e manutenção via Satélite. Instalação, configuração e troubleshoot em Servidores Linux (DHCP, DNS,FTP, File Server); Instalação, configuração e troubleshoot em Microsoft Windows Server 2003,2008, 2012 e 2016 (DHCP, DNS, AD, GPO, KMS, File Server) 11/2020 a 11/2021
+[Quanta DGT Analista Noc Monitoramento proativo de dispositivos de cinemas Digitais, Servidores,Switches, Projetores. Administração e configuração de switches (Dell, Cisco). Controle e manutenção RAID, auditoria log, transmissão e manutenção via Satélite. Instalação, configuração e troubleshoot em Servidores Linux (DHCP, DNS,FTP, File Server); Instalação, configuração e troubleshoot em Microsoft Windows Server 2003,2008, 2012 e 2016 (DHCP, DNS, AD, GPO, KMS, File Server) 11/2020 a 11/2021](https://tricia-sz.netlify.app/experiencia/4)
+
+## IT Universe Bio & Smartfit Analista de Suporte Resolução de problemas básicos e intermediários nos sistemas internos; Identificação e resolução de problemas nos sistemas e serviços; instalação, Windows; MS/BR Outlook, Word, Excel, drivers de impressoras, Totem e máquinas TEF. (Pinpad). Criação, alteração de logins e e-mails via AD (Active Directory)11/2018a 11/2019
+[IT Universe Bio & Smartfit Analista de Suporte Resolução de problemas básicos e intermediários nos sistemas internos; Identificação e resolução de problemas nos sistemas e serviços; instalação, Windows; MS/BR Outlook, Word, Excel, drivers de impressoras, Totem e máquinas TEF. (Pinpad). Criação, alteração de logins e e-mails via AD (Active Directory)11/2018a 11/2019](https://tricia-sz.netlify.app/experiencia/5)
+
+## Algar Tech KPMG Auditores Independentes Ltda Analista de Suporte N2Atuação remota aos sistemas e ambientes críticos internos e externos; Desenvolvimento de processos para otimização de recursos e implementação de melhores práticas de TI dentro da Metodologia ITIL. Instalação, implantação e manutenção de hardware, softwares e cópias de segurança. Suporte técnico a Windows, MS/EN Office. Implantação, suporte e monitoramento das plataformas móveis Android, i OS (Smartphones e tablets). Instalação e atualização de softwares. Monitoramento de rede. Segurança dos dados do serviço.abr 2016 a 02/2018
+[Algar Tech KPMG Auditores Independentes Ltda Analista de Suporte N2Atuação remota aos sistemas e ambientes críticos internos e externos; Desenvolvimento de processos para otimização de recursos e implementação de melhores práticas de TI dentro da Metodologia ITIL. Instalação, implantação e manutenção de hardware, softwares e cópias de segurança. Suporte técnico a Windows, MS/EN Office. Implantação, suporte e monitoramento das plataformas móveis Android, i OS (Smartphones e tablets). Instalação e atualização de softwares. Monitoramento de rede. Segurança dos dados do serviço.abr 2016 a 02/2018](https://tricia-sz.netlify.app/experiencia/6)
+
+## Mountain Hero Parallax
+[Mountain Hero Parallax](https://tricia-sz.netlify.app/projeto/6)
+
+## Lista de Países
+[Lista de Países](https://tricia-sz.netlify.app/projeto/2)
+
+## Trx Hotel
+[Trx Hotel](https://tricia-sz.netlify.app/projeto/9)
+
+## Se Sforce
+[Se Sforce](https://tricia-sz.netlify.app/projeto/11)
+
+## Colmeia Test
+[Colmeia Test](https://tricia-sz.netlify.app/projeto/5)
+
+## My Tasks
+[My Tasks](https://tricia-sz.netlify.app/projeto/3)
+
+## TRfli X
+[TRfli X](https://tricia-sz.netlify.app/projeto/10)
+
+## Github
+[Github](https://github.com/tricia-sz)
+
+## Linkedin
+[Linkedin](https://www.linkedin.com/in/tricia-sz/)
+
+## Spotify
+[Spotify](https://open.spotify.com/user/96lhix616mvop06x7fy6eak3e?si=ZmWGAl6-QtmtW6jS3vjT7A&nd=1&dlsi=e9ad2525a48d4627)

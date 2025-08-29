@@ -1,0 +1,16 @@
+{
+    "primaryColor": "#012E53",
+    "chatbotName": "TrícIA Assistant",
+    "buttonColor": "##4682B4",
+    "backgroundColor": "#012E53",
+    "headerColor": "#0F172A",
+    "userBubble": "#4682B4",
+    "botBubble": "#0151a0",
+    "userText": "#fff",
+    "botText": "#fff",
+    "iconUrl": "./botData/avatar.png",
+    "botAvatar": "./botData/avatar.png",
+    "welcomeBubble": "Bem-vindo a Trícia Assistant. No que posso te ajudar?",
+    "firstBotMessage": "Me conta, o que você quer saber sobre a Patrícia?",
+    "typingDelay": 0.5
+}

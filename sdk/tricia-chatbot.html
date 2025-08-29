@@ -1,0 +1,23 @@
+<div id="trx-widget">
+    <button id="trx-open-btn" class="trx-btn" aria-label="Abrir chat">
+        <span class="trx-btn-avatar-wrapper">
+            <img id="trx-icon" alt="Chatbot" />
+            <span class="trx-btn-badge">1</span>
+        </span>
+    </button>
+
+    <div class="trx-chat-window" id="trx-chat-window" style="display:none">
+        <div class="trx-chat-header">
+            <img src="" alt="Bot logo" class="trx-chat-header-logo" id="trx-header-icon" />
+            <span class="trx-chatbot-name" id="trx-chatbot-name"></span>
+            <button class="trx-close-btn" id="trx-close-btn" aria-label="Close chat">&times;</button>
+        </div>
+        <div class="trx-chat-body" id="trx-messages">
+        </div>
+        <form class="trx-chat-footer" id="trx-form" autocomplete="off">
+            <input type="text" id="trx-input" placeholder="Digite sua mensagem..." autocomplete="off" />
+            <button type="submit" id="trx-submit">Enviar</button>
+            <button type="button" id="trx-stop" alt="Parar parar geração de IA">🛑</button>
+        </form>
+    </div>
+</div>
